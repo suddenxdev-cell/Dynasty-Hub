@@ -9,4 +9,5 @@ export { ProgressBar } from './ProgressBar';
 export { ProspectCard } from './ProspectCard';
 export { ScoreBox } from './ScoreBox';
 export { SectionHeader } from './SectionHeader';
+export { StatTile } from './StatTile';
 export { SegmentedControl } from './SegmentedControl';
